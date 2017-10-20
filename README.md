@@ -20,3 +20,6 @@ I wouldn’t expect the local community to find the coastal defences sustainable
 
 
 ## Methodology
+|Data Collection Method|What data will this collect?|Problems/Limitations|Solutions|
+|----------------------|----------------------------|--------------------|---------|
+
